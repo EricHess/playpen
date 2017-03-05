@@ -1,0 +1,522 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"app",
+				"applySpecialLoginStyles"
+			],
+			[
+				"to",
+				"toolsWrapper"
+			],
+			[
+				"appl",
+				"applyMobileStyles"
+			],
+			[
+				"paren",
+				"parentElement"
+			],
+			[
+				"main",
+				"mainArticle"
+			],
+			[
+				"get",
+				"getNeededCoordinates"
+			],
+			[
+				"prot",
+				"prototype"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 375,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "snippet",
+		"selected_items":
+		[
+			[
+				"snippet",
+				"Snippet: Snippet: HTTP Create Server"
+			],
+			[
+				"snippet ser",
+				"Snippet: Snippet: HTTP Create Server"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"up",
+				"SFTP: Upload File"
+			],
+			[
+				"upl",
+				"SFTP: Upload File"
+			],
+			[
+				"remote ma",
+				"SFTP: Switch Remote Mapping…"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"g",
+				"Grunt"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"UPLO",
+				"SFTP: Upload File"
+			],
+			[
+				"uplo",
+				"SFTP: Upload File"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"grun",
+				"Grunt"
+			],
+			[
+				"gru ",
+				"Grunt"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"runt",
+				"Grunt: Kill Running Tasks"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"quick ",
+				"Git: Quick Commit"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"pwd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/Users/erichess/Projects/bigbeeryear/gruntfile.js",
+		"/Users/erichess/Downloads/mg8cf_rsform_submission_values (2).json",
+		"/Users/erichess/Downloads/mg8cf_rsform_submission_values.json",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/com_content/featured/default_item.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/mod_articles_latest/default.php",
+		"/Users/erichess/Projects/supergirl/components/com_content/views/category/tmpl/default_articles.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/css/sidebars.less",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/scripts/scripts.js",
+		"/Users/erichess/Projects/supergirl/gruntfile.js",
+		"/Users/erichess/Projects/supergirl/components/com_content/views/featured/tmpl/default.php",
+		"/Users/erichess/Downloads/triangle.svg",
+		"/Users/erichess/Projects/supergirl/modules/mod_custom/tmpl/default.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/modules.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/com_content/article/default.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/css/article.less",
+		"/Users/erichess/Projects/supergirl/modules/mod_articles_latest/tmpl/default.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/css/mobileTools.less",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/css/mixins/blueBackground.less",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/layouts/joomla/content/info_block/publish_date.php",
+		"/Users/erichess/Projects/supergirl/.gitignore",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/layouts/joomla/content/info_block/block.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/info_block/publish_date.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/html/info_block/block.php",
+		"/Users/erichess/Projects/supergirl/components/com_content/views/archive/tmpl/default_items.php",
+		"/Users/erichess/Projects/supergirl/templates/supergirl3/css/header.less",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/Users/erichess/Library/Application Support/Sublime Text 3/Packages/User/SublimeGrunt.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.php,/Users/erichess/Projects/supergirl/templates/supergirl3",
+			"*.php",
+			"*.php,/Users/erichess/Projects/supergirl/components/com_content",
+			"*.php",
+			"*.less",
+			"",
+			"<current file>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"icon-calendar",
+			"item->created",
+			"default",
+			"7px",
+			"@media @phone",
+			"@phone",
+			"nav",
+			"> nav",
+			"(2)",
+			"p.d",
+			"counter pull-right",
+			"pagination",
+			"nth-of-typ",
+			".grey",
+			"nth-of",
+			"poly",
+			"h3",
+			"readmore",
+			"before",
+			"aft",
+			"16px",
+			"white",
+			"white#",
+			"white",
+			"_menu",
+			"2px",
+			"rgba",
+			"JLoader::import('joomla.filesystem.file');",
+			"tests",
+			"shown",
+			"loginb",
+			"datetime",
+			"blueb",
+			"share",
+			"icons",
+			"time",
+			"tools",
+			"toolsWrapper",
+			"readmore",
+			"mobileTools"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"toolsWrapper"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								375,
+								375
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										374,
+										375
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										233,
+										234
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"incomplete_sync": null,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 208.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "playpen.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sidebar.le",
+				"templates/supergirl3/css/sidebars.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
